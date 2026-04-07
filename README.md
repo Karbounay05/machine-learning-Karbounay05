@@ -1,4 +1,4 @@
-# 📘 Projet : Régression linéaire simple – Note des étudiants
+## Projet : Régression linéaire simple – Note des étudiants
 
 ## 1. Objectif
 L’objectif est de **prédire la note finale d’un étudiant (/20)** en fonction du **nombre d’heures d’étude par jour**.  
@@ -29,4 +29,7 @@ Le dataset utilisé se trouve dans :
 
 ---
 
-## 3. Structure du projet
+- On estime **a** et **b** à partir des données  
+- Ce modèle permet de **prévoir la note à partir du nombre d’heures d’étude**  
+- C’est une approche simple mais pédagogique pour comprendre la régression linéaire
+
